@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, thank you for downloading this crappy test. Im trying right now to make an entire operating system right now, so thank you for your support.
 
 <!--
 **GoodApple7/GoodApple7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
